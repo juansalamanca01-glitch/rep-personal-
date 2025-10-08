@@ -14,4 +14,4 @@ Implementación en Java de una **pila** y una **cola**, basada en los pseudocód
 - `video.txt`: Link al video de argumentación (máximo 3 minutos)
 
 ## Video
-[Ver video aquí](video.txt) ← Abre el archivo para copiar el link.
+Ver link del video aquí: [LinkVideoActualizado.txt](LinkVideoActualizado.txt)
